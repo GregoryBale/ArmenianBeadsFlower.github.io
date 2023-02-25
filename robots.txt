@@ -1,4 +1,6 @@
-# Created by Gregorymorozovidme
+# Created by https://vk.com/eliruofficial
 
 User-agent: *
 Disallow: 
+Sitemap: https://armenianbeadsflower.netlify.app/sitemap.html
+
