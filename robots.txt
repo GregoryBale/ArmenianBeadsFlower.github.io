@@ -1,0 +1,4 @@
+# Created by Gregorymorozovidme
+
+User-agent: *
+Disallow: 
